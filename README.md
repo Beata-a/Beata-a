@@ -3,7 +3,7 @@
 
 📊 Skilled in SQL, Power BI, DAX, Excel, and data modelling
 
-🤖 Comfortable working with Python, machine learning fundamentals, and AI‑assisted analysis
+🤖 Learning how to work with Python, machine learning fundamentals, and AI‑assisted analysis
 
 🎨 Passionate about clear, accessible, colour‑blind‑friendly data visualisation
 
