@@ -13,6 +13,4 @@ I’m a detail‑oriented Data Analyst who enjoys transforming raw data into mea
 My background includes SQL Server querying, data cleaning, dashboard development, and implementing machine learning models such as linear regression. I’m also experienced in standardising reporting visuals and converting legacy reports into modern, user‑friendly dashboards.
 
 I’m committed to continuous improvement — whether that’s deepening my technical skills, experimenting with AI tools, or refining my approach to user‑centric design. Outside of work, you’ll usually find me weightlifting or building Gundam models, both of which keep me focused and creative.
-Beata-a/Beata-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
