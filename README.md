@@ -1,15 +1,12 @@
-👋 Hi, I’m Beata - but you can call me Bea
-🔍 Data Analyst with hands‑on experience across financial services, utilities, and consultancy
+Hi, I’m Beata - but you can call me Bea
 
-📊 Skilled in SQL, Power BI, DAX, Excel, and data modelling
+Data Analyst with hands‑on experience across financial services, utilities, and consultancy
 
-🤖 Learning how to work with Python, machine learning fundamentals, and AI‑assisted analysis
+Skilled in SQL, Power BI, DAX, Excel, and data modelling
+Passionate about clear, accessible, colour‑blind‑friendly data visualisation
+Driven by curiosity, continuous learning, and turning complex data into actionable insights
 
-🎨 Passionate about clear, accessible, colour‑blind‑friendly data visualisation
-
-🚀 Driven by curiosity, continuous learning, and turning complex data into actionable insights
-
-
+Learning how to work with Python, machine learning fundamentals, and AI‑assisted analysis
 ✨ 
 I’m a detail‑oriented Data Analyst who enjoys transforming raw data into meaningful stories that support confident decision‑making. My experience spans financial services, consultancy, and utilities, where I’ve delivered MI reporting, built interactive Power BI dashboards, validated data across systems, and supported both internal and external stakeholders. I’ve worked closely with senior analysts, engineers, and business leaders, ensuring that insights are accurate, accessible, and aligned with organisational goals.
 
